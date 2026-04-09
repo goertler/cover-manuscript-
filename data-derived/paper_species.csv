@@ -1,0 +1,49 @@
+id,full_text_file,publication_year,doi,title,species_standardized
+4,04_kennedy_2014,2014,10.1111/fme.12077,Assessment of a catchmentwide salmon habitat rehabilitation scheme on a drained river system in Northern Ireland,Salmo salar
+4,04_kennedy_2014,2014,10.1111/fme.12077,Assessment of a catchmentwide salmon habitat rehabilitation scheme on a drained river system in Northern Ireland,Salmo trutta
+6,06_wilbur_2020,2020,10.1002/rra.3570,Characterizing physical habitat preferences and thermal refuge occupancy of brook trout (Salvelinus fontinalis) and Atlantic salmon (Salmo salar) at high river temperatures,Salmo salar
+6,06_wilbur_2020,2020,10.1002/rra.3570,Characterizing physical habitat preferences and thermal refuge occupancy of brook trout (Salvelinus fontinalis) and Atlantic salmon (Salmo salar) at high river temperatures,Salvelinus fontinalis
+11,11_naman_2020,2020,10.1002/nafm.10411,Exploitation of Velocity Gradients by Sympatric Stream Salmonids: Basic Insights and Implications for Instream Flow Management,Oncorhynchus kisutch
+11,11_naman_2020,2020,10.1002/nafm.10411,Exploitation of Velocity Gradients by Sympatric Stream Salmonids: Basic Insights and Implications for Instream Flow Management,Oncorhynchus mykiss (steelhead)
+12,12_moniz_2021,2021,10.1002/rra.3855,Chinook salmon rearing habitat-discharge relationships change as a result of morphodynamic processes,Oncorhynchus tshawytscha
+13,13_roni_2023,2023,10.1002/tafs.10399,A comparison of methods for estimating juvenile salmon habitat capacity to assist with restoration planning and evaluation,Oncorhynchus tshawytscha (spring-run)
+14,14_jelovica_2024,2024,10.1016/j.ecolind.2024.111832,Atlantic salmon habitat-abundance modeling using machine learning methods,Salmo salar
+15,15_favrot_2018,2018,10.1002/tafs.10011,Fall and Winter Microhabitat Use and Suitability for Spring Chinook Salmon Parr in a US Pacific Northwest River,Oncorhynchus tshawytscha (spring-run)
+16,16_heggenes_1990,1990,10.1111/j.1095-8649.1990.tb04325.x,"Seasonal and spatial microhabitat selection and segregation in young Atlantic salmon, Salmo salar L., and brown trout, Salmo trutta L., in a Norwegian river",Salmo salar
+16,16_heggenes_1990,1990,10.1111/j.1095-8649.1990.tb04325.x,"Seasonal and spatial microhabitat selection and segregation in young Atlantic salmon, Salmo salar L., and brown trout, Salmo trutta L., in a Norwegian river",Salmo trutta
+19,19_wondzell_2007,2007,10.1016/j.landurbplan.2006.10.012,"Simulating riparian vegetation and aquatic habitat dynamics in response to natural and anthropogenic disturbance regimes in the Upper Grande Ronde River, Oregon, USA",Oncorhynchus mykiss (steelhead)
+19,19_wondzell_2007,2007,10.1016/j.landurbplan.2006.10.012,"Simulating riparian vegetation and aquatic habitat dynamics in response to natural and anthropogenic disturbance regimes in the Upper Grande Ronde River, Oregon, USA",Oncorhynchus tshawytscha
+20,20_beecher_2002,2002,10.1577/1548-8675(2002)022<0785:EODAVP>2.0.CO;2,Evaluation of depth and velocity preferences of juvenile coho salmon in Washington streams,Oncorhynchus kisutch
+23,23_grantham_2012,2012,10.1080/00028487.2012.683472,The Role of Streamflow and Land Use in Limiting Oversummer Survival of Juvenile Steelhead in California Streams,Oncorhynchus mykiss (steelhead)
+24,24_heggenes_1991,1991,10.1111/j.1600-0587.1991.tb00633.x,Comparisons of Habitat Availability and Habitat Use by an Allopatric Cohort of Juvenile Atlantic Salmon Salmo salar under Conditions of Low Competition in a Norwegian Stream,Salmo salar
+26,26_barber_2018,2018,10.2495/EI-V1-N3-390-400,Uncertainty in minimum instream flow requirements for streams in semi-arid environments,Oncorhynchus kisutch
+26,26_barber_2018,2018,10.2495/EI-V1-N3-390-400,Uncertainty in minimum instream flow requirements for streams in semi-arid environments,Oncorhynchus mykiss (steelhead)
+26,26_barber_2018,2018,10.2495/EI-V1-N3-390-400,Uncertainty in minimum instream flow requirements for streams in semi-arid environments,Oncorhynchus nerka
+26,26_barber_2018,2018,10.2495/EI-V1-N3-390-400,Uncertainty in minimum instream flow requirements for streams in semi-arid environments,Oncorhynchus tshawytscha
+26,26_barber_2018,2018,10.2495/EI-V1-N3-390-400,Uncertainty in minimum instream flow requirements for streams in semi-arid environments,Salvelinus confluentus
+31,31_fitzgerald_2021,2021,10.5061/DRYAD.KSN02V74X,"Physical and biological constraints on the capacity for life-history expression of anadromous salmonids: an Eel River, California, case study",Oncorhynchus mykiss (steelhead)
+31,31_fitzgerald_2021,2021,10.5061/DRYAD.KSN02V74X,"Physical and biological constraints on the capacity for life-history expression of anadromous salmonids: an Eel River, California, case study",Oncorhynchus tshawytscha
+32,32_allen_2000,2000,,"Seasonal microhabitat use by juvenile spring chinook salmon in the Yakima River basin, Washington",Oncorhynchus tshawytscha (spring-run)
+38,38_ibbotson_1994,1994,10.1111/j.1365-2400.1994.tb00157.x,Spatial and temporal distribution of fish in a small lowland stream,Salmo salar
+38,38_ibbotson_1994,1994,10.1111/j.1365-2400.1994.tb00157.x,Spatial and temporal distribution of fish in a small lowland stream,Salmo trutta
+38,38_ibbotson_1994,1994,10.1111/j.1365-2400.1994.tb00157.x,Spatial and temporal distribution of fish in a small lowland stream,unresolved dace
+38,38_ibbotson_1994,1994,10.1111/j.1365-2400.1994.tb00157.x,Spatial and temporal distribution of fish in a small lowland stream,unresolved eel
+38,38_ibbotson_1994,1994,10.1111/j.1365-2400.1994.tb00157.x,Spatial and temporal distribution of fish in a small lowland stream,unresolved grayling
+38,38_ibbotson_1994,1994,10.1111/j.1365-2400.1994.tb00157.x,Spatial and temporal distribution of fish in a small lowland stream,unresolved pike
+38,38_ibbotson_1994,1994,10.1111/j.1365-2400.1994.tb00157.x,Spatial and temporal distribution of fish in a small lowland stream,unresolved roach
+38,38_ibbotson_1994,1994,10.1111/j.1365-2400.1994.tb00157.x,Spatial and temporal distribution of fish in a small lowland stream,unresolved trout
+39,39_bair_2019,2019,10.5194/esurf-7-841-2019,Quantifying the restoration success of wood introductions to increase coho salmon winter habitat,Oncorhynchus kisutch
+40,40_johnson_2008,2008,10.1656/1092-6194-15.3.363,Seasonal Habitat Use of Brook Trout and Juvenile Atlantic Salmon in a Tributary of Lake Ontario,Salmo salar
+40,40_johnson_2008,2008,10.1656/1092-6194-15.3.363,Seasonal Habitat Use of Brook Trout and Juvenile Atlantic Salmon in a Tributary of Lake Ontario,Salvelinus fontinalis
+42,42_chalmers_2023e,2023,10.1371/journal.pwat.0000069,Application of watershed-scale habitat modeling and decision-support tools for reservoir reoperations in coastal northern California,Oncorhynchus mykiss (steelhead)
+42,42_chalmers_2023e,2023,10.1371/journal.pwat.0000069,Application of watershed-scale habitat modeling and decision-support tools for reservoir reoperations in coastal northern California,Oncorhynchus tshawytscha
+43,43_tullos_2014,2014,10.1007/s10641-014-0362-4,"Fish use of turbulence around wood in winter: physical experiments on hydraulic variability and habitat selection by juvenile coho salmon, Oncorhynchus kisutch",Oncorhynchus kisutch
+44,44_conallin_2014,2014,10.1051/kmae/2014006,Daytime habitat selection for juvenile parr brown trout (Salmo trutta) in small lowland streams,Salmo trutta
+45,45_lacey_2004,2004,10.1111/j.1752-1688.2004.tb01611.x,Reach scale hydraulic assessment of instream salmonid habitat restoration,Oncorhynchus kisutch
+45,45_lacey_2004,2004,10.1111/j.1752-1688.2004.tb01611.x,Reach scale hydraulic assessment of instream salmonid habitat restoration,Oncorhynchus mykiss (steelhead)
+47,47_studdert_2015,2015,10.1656/045.022.0409,Seasonal Variation in Habitat Use of Juvenile Steelhead in a Tributary of Lake Ontario,Oncorhynchus mykiss (steelhead)
+50,50_deschênes_2007,2007,10.1139/f07-053,Hierarchical analysis of relationships between brook trout (Salvelinus fontinalis) density and stream habitat features,Salvelinus fontinalis
+51,51_naman_2021,2021,10.1139/cjfas-2020-0475,Diel patterns of foraging and microhabitat use by sympatric rainbow trout and bull trout: implications for adaptive differentiation and instream flow assessment,Oncorhynchus mykiss (rainbow trout)
+51,51_naman_2021,2021,10.1139/cjfas-2020-0475,Diel patterns of foraging and microhabitat use by sympatric rainbow trout and bull trout: implications for adaptive differentiation and instream flow assessment,Salvelinus confluentus
+55,55_mocq_2013,2013,10.1016/j.ecolmodel.2013.05.020,Assessment of Atlantic salmon (Salmo salar) habitat quality and its uncertainty using a multiple-expert fuzzy model applied to the Romaine River (Canada),Salmo salar
+58,58_turgeon_2005,2005,10.1111/j.1365-2427.2005.01340.x,Predicting microhabitat selection in juvenile Atlantic salmon Salmo salar by the use of logistic regression and classification trees,Salmo salar

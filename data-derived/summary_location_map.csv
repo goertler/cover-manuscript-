@@ -1,0 +1,13 @@
+map_unit_level,map_unit_key,map_unit_name,n_papers
+subnational,oregon,Oregon,5
+subnational,california,California,4
+country,norway,Norway,3
+subnational,british columbia,British Columbia,3
+subnational,quebec,Quebec,3
+subnational,washington,Washington,3
+subnational,new york,New York,2
+country,denmark,Denmark,1
+country,finland,Finland,1
+subnational,england,England,1
+subnational,new brunswick,New Brunswick,1
+subnational,northern ireland,Northern Ireland,1

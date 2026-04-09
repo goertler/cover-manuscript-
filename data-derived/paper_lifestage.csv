@@ -1,0 +1,56 @@
+id,full_text_file,publication_year,doi,title,lifestage
+4,04_kennedy_2014,2014,10.1111/fme.12077,Assessment of a catchmentwide salmon habitat rehabilitation scheme on a drained river system in Northern Ireland,fry
+4,04_kennedy_2014,2014,10.1111/fme.12077,Assessment of a catchmentwide salmon habitat rehabilitation scheme on a drained river system in Northern Ireland,juvenile_unspecified
+4,04_kennedy_2014,2014,10.1111/fme.12077,Assessment of a catchmentwide salmon habitat rehabilitation scheme on a drained river system in Northern Ireland,parr
+6,06_wilbur_2020,2020,10.1002/rra.3570,Characterizing physical habitat preferences and thermal refuge occupancy of brook trout (Salvelinus fontinalis) and Atlantic salmon (Salmo salar) at high river temperatures,adult
+6,06_wilbur_2020,2020,10.1002/rra.3570,Characterizing physical habitat preferences and thermal refuge occupancy of brook trout (Salvelinus fontinalis) and Atlantic salmon (Salmo salar) at high river temperatures,parr
+11,11_naman_2020,2020,10.1002/nafm.10411,Exploitation of Velocity Gradients by Sympatric Stream Salmonids: Basic Insights and Implications for Instream Flow Management,juvenile_unspecified
+12,12_moniz_2021,2021,10.1002/rra.3855,Chinook salmon rearing habitat-discharge relationships change as a result of morphodynamic processes,fry
+13,13_roni_2023,2023,10.1002/tafs.10399,A comparison of methods for estimating juvenile salmon habitat capacity to assist with restoration planning and evaluation,juvenile_unspecified
+14,14_jelovica_2024,2024,10.1016/j.ecolind.2024.111832,Atlantic salmon habitat-abundance modeling using machine learning methods,fry
+14,14_jelovica_2024,2024,10.1016/j.ecolind.2024.111832,Atlantic salmon habitat-abundance modeling using machine learning methods,juvenile_unspecified
+14,14_jelovica_2024,2024,10.1016/j.ecolind.2024.111832,Atlantic salmon habitat-abundance modeling using machine learning methods,parr
+15,15_favrot_2018,2018,10.1002/tafs.10011,Fall and Winter Microhabitat Use and Suitability for Spring Chinook Salmon Parr in a US Pacific Northwest River,parr
+16,16_heggenes_1990,1990,10.1111/j.1095-8649.1990.tb04325.x,"Seasonal and spatial microhabitat selection and segregation in young Atlantic salmon, Salmo salar L., and brown trout, Salmo trutta L., in a Norwegian river",juvenile_unspecified
+16,16_heggenes_1990,1990,10.1111/j.1095-8649.1990.tb04325.x,"Seasonal and spatial microhabitat selection and segregation in young Atlantic salmon, Salmo salar L., and brown trout, Salmo trutta L., in a Norwegian river",parr
+19,19_wondzell_2007,2007,10.1016/j.landurbplan.2006.10.012,"Simulating riparian vegetation and aquatic habitat dynamics in response to natural and anthropogenic disturbance regimes in the Upper Grande Ronde River, Oregon, USA",adult
+19,19_wondzell_2007,2007,10.1016/j.landurbplan.2006.10.012,"Simulating riparian vegetation and aquatic habitat dynamics in response to natural and anthropogenic disturbance regimes in the Upper Grande Ronde River, Oregon, USA",juvenile_unspecified
+20,20_beecher_2002,2002,10.1577/1548-8675(2002)022<0785:EODAVP>2.0.CO;2,Evaluation of depth and velocity preferences of juvenile coho salmon in Washington streams,juvenile_unspecified
+20,20_beecher_2002,2002,10.1577/1548-8675(2002)022<0785:EODAVP>2.0.CO;2,Evaluation of depth and velocity preferences of juvenile coho salmon in Washington streams,subyearling
+20,20_beecher_2002,2002,10.1577/1548-8675(2002)022<0785:EODAVP>2.0.CO;2,Evaluation of depth and velocity preferences of juvenile coho salmon in Washington streams,yearling
+23,23_grantham_2012,2012,10.1080/00028487.2012.683472,The Role of Streamflow and Land Use in Limiting Oversummer Survival of Juvenile Steelhead in California Streams,juvenile_unspecified
+24,24_heggenes_1991,1991,10.1111/j.1600-0587.1991.tb00633.x,Comparisons of Habitat Availability and Habitat Use by an Allopatric Cohort of Juvenile Atlantic Salmon Salmo salar under Conditions of Low Competition in a Norwegian Stream,parr
+26,26_barber_2018,2018,10.2495/EI-V1-N3-390-400,Uncertainty in minimum instream flow requirements for streams in semi-arid environments,adult
+26,26_barber_2018,2018,10.2495/EI-V1-N3-390-400,Uncertainty in minimum instream flow requirements for streams in semi-arid environments,juvenile_unspecified
+31,31_fitzgerald_2021,2021,10.5061/DRYAD.KSN02V74X,"Physical and biological constraints on the capacity for life-history expression of anadromous salmonids: an Eel River, California, case study",adult
+31,31_fitzgerald_2021,2021,10.5061/DRYAD.KSN02V74X,"Physical and biological constraints on the capacity for life-history expression of anadromous salmonids: an Eel River, California, case study",egg
+31,31_fitzgerald_2021,2021,10.5061/DRYAD.KSN02V74X,"Physical and biological constraints on the capacity for life-history expression of anadromous salmonids: an Eel River, California, case study",fry
+31,31_fitzgerald_2021,2021,10.5061/DRYAD.KSN02V74X,"Physical and biological constraints on the capacity for life-history expression of anadromous salmonids: an Eel River, California, case study",juvenile_unspecified
+31,31_fitzgerald_2021,2021,10.5061/DRYAD.KSN02V74X,"Physical and biological constraints on the capacity for life-history expression of anadromous salmonids: an Eel River, California, case study",parr
+32,32_allen_2000,2000,,"Seasonal microhabitat use by juvenile spring chinook salmon in the Yakima River basin, Washington",juvenile_unspecified
+38,38_ibbotson_1994,1994,10.1111/j.1365-2400.1994.tb00157.x,Spatial and temporal distribution of fish in a small lowland stream,juvenile_unspecified
+38,38_ibbotson_1994,1994,10.1111/j.1365-2400.1994.tb00157.x,Spatial and temporal distribution of fish in a small lowland stream,parr
+38,38_ibbotson_1994,1994,10.1111/j.1365-2400.1994.tb00157.x,Spatial and temporal distribution of fish in a small lowland stream,smolt
+38,38_ibbotson_1994,1994,10.1111/j.1365-2400.1994.tb00157.x,Spatial and temporal distribution of fish in a small lowland stream,subyearling
+39,39_bair_2019,2019,10.5194/esurf-7-841-2019,Quantifying the restoration success of wood introductions to increase coho salmon winter habitat,juvenile_unspecified
+40,40_johnson_2008,2008,10.1656/1092-6194-15.3.363,Seasonal Habitat Use of Brook Trout and Juvenile Atlantic Salmon in a Tributary of Lake Ontario,juvenile_unspecified
+40,40_johnson_2008,2008,10.1656/1092-6194-15.3.363,Seasonal Habitat Use of Brook Trout and Juvenile Atlantic Salmon in a Tributary of Lake Ontario,subyearling
+40,40_johnson_2008,2008,10.1656/1092-6194-15.3.363,Seasonal Habitat Use of Brook Trout and Juvenile Atlantic Salmon in a Tributary of Lake Ontario,yearling
+42,42_chalmers_2023e,2023,10.1371/journal.pwat.0000069,Application of watershed-scale habitat modeling and decision-support tools for reservoir reoperations in coastal northern California,adult
+42,42_chalmers_2023e,2023,10.1371/journal.pwat.0000069,Application of watershed-scale habitat modeling and decision-support tools for reservoir reoperations in coastal northern California,egg
+42,42_chalmers_2023e,2023,10.1371/journal.pwat.0000069,Application of watershed-scale habitat modeling and decision-support tools for reservoir reoperations in coastal northern California,fry
+42,42_chalmers_2023e,2023,10.1371/journal.pwat.0000069,Application of watershed-scale habitat modeling and decision-support tools for reservoir reoperations in coastal northern California,juvenile_unspecified
+43,43_tullos_2014,2014,10.1007/s10641-014-0362-4,"Fish use of turbulence around wood in winter: physical experiments on hydraulic variability and habitat selection by juvenile coho salmon, Oncorhynchus kisutch",juvenile_unspecified
+44,44_conallin_2014,2014,10.1051/kmae/2014006,Daytime habitat selection for juvenile parr brown trout (Salmo trutta) in small lowland streams,adult
+44,44_conallin_2014,2014,10.1051/kmae/2014006,Daytime habitat selection for juvenile parr brown trout (Salmo trutta) in small lowland streams,juvenile_unspecified
+45,45_lacey_2004,2004,10.1111/j.1752-1688.2004.tb01611.x,Reach scale hydraulic assessment of instream salmonid habitat restoration,fry
+47,47_studdert_2015,2015,10.1656/045.022.0409,Seasonal Variation in Habitat Use of Juvenile Steelhead in a Tributary of Lake Ontario,subyearling
+47,47_studdert_2015,2015,10.1656/045.022.0409,Seasonal Variation in Habitat Use of Juvenile Steelhead in a Tributary of Lake Ontario,yearling
+50,50_deschênes_2007,2007,10.1139/f07-053,Hierarchical analysis of relationships between brook trout (Salvelinus fontinalis) density and stream habitat features,juvenile_unspecified
+51,51_naman_2021,2021,10.1139/cjfas-2020-0475,Diel patterns of foraging and microhabitat use by sympatric rainbow trout and bull trout: implications for adaptive differentiation and instream flow assessment,juvenile_unspecified
+55,55_mocq_2013,2013,10.1016/j.ecolmodel.2013.05.020,Assessment of Atlantic salmon (Salmo salar) habitat quality and its uncertainty using a multiple-expert fuzzy model applied to the Romaine River (Canada),adult
+55,55_mocq_2013,2013,10.1016/j.ecolmodel.2013.05.020,Assessment of Atlantic salmon (Salmo salar) habitat quality and its uncertainty using a multiple-expert fuzzy model applied to the Romaine River (Canada),juvenile_unspecified
+55,55_mocq_2013,2013,10.1016/j.ecolmodel.2013.05.020,Assessment of Atlantic salmon (Salmo salar) habitat quality and its uncertainty using a multiple-expert fuzzy model applied to the Romaine River (Canada),parr
+55,55_mocq_2013,2013,10.1016/j.ecolmodel.2013.05.020,Assessment of Atlantic salmon (Salmo salar) habitat quality and its uncertainty using a multiple-expert fuzzy model applied to the Romaine River (Canada),subyearling
+58,58_turgeon_2005,2005,10.1111/j.1365-2427.2005.01340.x,Predicting microhabitat selection in juvenile Atlantic salmon Salmo salar by the use of logistic regression and classification trees,juvenile_unspecified
+58,58_turgeon_2005,2005,10.1111/j.1365-2427.2005.01340.x,Predicting microhabitat selection in juvenile Atlantic salmon Salmo salar by the use of logistic regression and classification trees,parr
