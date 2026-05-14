@@ -1,0 +1,266 @@
+id,outcome,conclusion,habitat,fish.sampling,cover,salmon.response
+4,3c,not related,depth,electrofishing,addition,density
+4,3c,not related,velocity,electrofishing,addition,density
+4,3c,not related,substrate,electrofishing,addition,density
+4,3c,not related,depth,marking/tagging,addition,density
+4,3c,not related,velocity,marking/tagging,addition,density
+4,3c,not related,substrate,marking/tagging,addition,density
+4,3c,not related,depth,electrofishing,addition,density
+4,3c,not related,velocity,electrofishing,addition,density
+4,3c,not related,substrate,electrofishing,addition,density
+4,3c,not related,depth,marking/tagging,addition,density
+4,3c,not related,velocity,marking/tagging,addition,density
+4,3c,not related,substrate,marking/tagging,addition,density
+4,3a,positive,depth,electrofishing,addition,density
+4,3a,positive,velocity,electrofishing,addition,density
+4,3a,positive,substrate,electrofishing,addition,density
+4,3a,positive,depth,marking/tagging,addition,density
+4,3a,positive,velocity,marking/tagging,addition,density
+4,3a,positive,substrate,marking/tagging,addition,density
+4,3a,positive,depth,electrofishing,addition,density
+4,3a,positive,velocity,electrofishing,addition,density
+4,3a,positive,substrate,electrofishing,addition,density
+4,3a,positive,depth,marking/tagging,addition,density
+4,3a,positive,velocity,marking/tagging,addition,density
+4,3a,positive,substrate,marking/tagging,addition,density
+39,2b,bed stability,depth,literarture,addition,survival 
+39,2b,bed stability,velocity,literarture,addition,survival 
+39,2b,bed stability,substrate,literarture,addition,survival 
+39,2b,bed stability,cover,literarture,addition,survival 
+43,3a,positive,depth,snorkeling,addition,preference
+43,3a,positive,velocity,snorkeling,addition,preference
+43,3a,positive,cover,snorkeling,addition,preference
+45,2a,velocity,depth,literarture,addition,preference
+45,2b,bed stability,depth,literarture,addition,preference
+45,2a,velocity,temperature,literarture,addition,preference
+45,2b,bed stability,temperature,literarture,addition,preference
+45,2a,velocity,substrate,literarture,addition,preference
+45,2b,bed stability,substrate,literarture,addition,preference
+45,2a,velocity,velocity,literarture,addition,preference
+45,2b,bed stability,velocity,literarture,addition,preference
+45,2a,velocity,cover,literarture,addition,preference
+45,2b,bed stability,cover,literarture,addition,preference
+45,2a,velocity,type,literarture,addition,preference
+45,2b,bed stability,type,literarture,addition,preference
+51,3a,positive,depth,snorkeling,addition,preference
+51,3a,positive,velocity,snorkeling,addition,preference
+51,3a,positive,substrate,snorkeling,addition,preference
+51,3a,positive,cover,snorkeling,addition,preference
+17,1a,not included,gradient,literarture,gradient,preference
+31,2c,temperature,cover,literarture,instream,density
+31,2c,temperature,depth,literarture,instream,density
+31,2c,temperature,pH,literarture,instream,density
+31,2c,temperature,temperature,literarture,instream,density
+31,2c,temperature,type,literarture,instream,density
+46,4,not evaluated,depth,literarture,instream,survival 
+46,2b,bed stability,depth,literarture,instream,survival 
+46,4,not evaluated,velocity,literarture,instream,survival 
+46,2b,bed stability,velocity,literarture,instream,survival 
+46,4,not evaluated,substrate,literarture,instream,survival 
+46,2b,bed stability,substrate,literarture,instream,survival 
+52,4,not evaluated,wetted width,electrofishing,instream,preference
+52,4,not evaluated,cover,electrofishing,instream,preference
+52,4,not evaluated,depth,electrofishing,instream,preference
+52,4,not evaluated,temperature,electrofishing,instream,preference
+52,4,not evaluated,substrate,electrofishing,instream,preference
+40,3a,positive,depth,electrofishing,instream,preference
+40,3a,positive,velocity,electrofishing,instream,preference
+40,3a,positive,cover,electrofishing,instream,preference
+40,3a,positive,substrate,electrofishing,instream,preference
+40,3a,positive,depth,stocking,instream,preference
+40,3a,positive,velocity,stocking,instream,preference
+40,3a,positive,cover,stocking,instream,preference
+40,3a,positive,substrate,stocking,instream,preference
+38,3a,positive,velocity,electrofishing,instream,abundance
+38,3a,positive,substrate,electrofishing,instream,abundance
+38,3a,positive,depth,electrofishing,instream,abundance
+38,3a,positive,cover,electrofishing,instream,abundance
+41,4,not evaluated,substrate,existing data,instream,preference
+41,4,not evaluated,cover,existing data,instream,preference
+41,4,not evaluated,type,existing data,instream,preference
+41,4,not evaluated,erosion,existing data,instream,preference
+41,4,not evaluated,gradient,existing data,instream,preference
+5,1a,not included,velocity,literarture,no cover,preference
+5,1a,not included,velocity,macroinvertebrate,no cover,preference
+7,1a,not included,depth,redd survey,no cover,preference
+7,1a,not included,depth,literarture,no cover,preference
+7,1a,not included,velocity,redd survey,no cover,preference
+7,1a,not included,velocity,literarture,no cover,preference
+9,1a,not included,depth,literarture,no cover,preference
+9,1a,not included,velocity,literarture,no cover,preference
+11,1b,model assumptions,depth,snorkeling,no cover,preference
+11,1b,model assumptions,velocity,snorkeling,no cover,preference
+20,3c,not related,depth,snorkeling,no cover,preference
+20,3c,not related,velocity,snorkeling,no cover,preference
+22,1a,not included,depth,literarture,no cover,preference
+22,1a,not included,velocity,literarture,no cover,preference
+22,1a,not included,type,literarture,no cover,preference
+54,1a,not included,temperature,marking/tagging,no cover,growth
+54,1a,not included,type,marking/tagging,no cover,growth
+1,3a,positive,depth,literarture,structure,preference
+1,3a,positive,velocity,literarture,structure,preference
+1,3a,positive,cover,literarture,structure,preference
+12,2d,habitat extent,depth,literarture,structure,preference
+12,2d,habitat extent,velocity,literarture,structure,preference
+12,2d,habitat extent,cover,literarture,structure,preference
+13,3a,positive,type,literarture,structure,capacity
+13,3b,negative,type,literarture,structure,capacity
+13,3a,positive,cover,literarture,structure,capacity
+13,3b,negative,cover,literarture,structure,capacity
+13,3a,positive,temperature,literarture,structure,capacity
+13,3b,negative,temperature,literarture,structure,capacity
+13,3a,positive,depth,literarture,structure,capacity
+13,3b,negative,depth,literarture,structure,capacity
+13,3a,positive,velocity,literarture,structure,capacity
+13,3b,negative,velocity,literarture,structure,capacity
+15,3a,positive,cover,marking/tagging,structure,preference
+15,3a,positive,substrate,marking/tagging,structure,preference
+15,3a,positive,gradient,marking/tagging,structure,preference
+15,3a,positive,depth,marking/tagging,structure,preference
+15,3a,positive,velocity,marking/tagging,structure,preference
+19,1b,model assumptions,type,literarture,structure,not juvenile salmon
+19,1b,model assumptions,type,expert opinion,structure,not juvenile salmon
+26,1b,model assumptions,depth,existing data,structure,not juvenile salmon
+26,1b,model assumptions,velocity,existing data,structure,not juvenile salmon
+26,1b,model assumptions,substrate,existing data,structure,not juvenile salmon
+26,1b,model assumptions,cover,existing data,structure,not juvenile salmon
+32,3a,positive,depth,snorkeling,structure,preference
+32,3a,positive,velocity,snorkeling,structure,preference
+32,3a,positive,cover,snorkeling,structure,preference
+32,3a,positive,substrate,snorkeling,structure,preference
+42,1b,model assumptions,depth,literarture,structure,preference
+42,1b,model assumptions,velocity,literarture,structure,preference
+42,1b,model assumptions,temperature,literarture,structure,preference
+42,1b,model assumptions,cover,literarture,structure,preference
+48,4,not evaluated,depth,snorkeling,structure,not juvenile salmon
+48,4,not evaluated,depth,marking/tagging,structure,not juvenile salmon
+48,4,not evaluated,velocity,snorkeling,structure,not juvenile salmon
+48,4,not evaluated,velocity,marking/tagging,structure,not juvenile salmon
+48,4,not evaluated,substrate,snorkeling,structure,not juvenile salmon
+48,4,not evaluated,substrate,marking/tagging,structure,not juvenile salmon
+48,4,not evaluated,cover,snorkeling,structure,not juvenile salmon
+48,4,not evaluated,cover,marking/tagging,structure,not juvenile salmon
+50,3a,positive,depth,electrofishing,structure,density
+50,3a,positive,velocity,electrofishing,structure,density
+50,3a,positive,cover,electrofishing,structure,density
+50,3a,positive,substrate,electrofishing,structure,density
+50,3a,positive,temperature,electrofishing,structure,density
+50,3a,positive,gradient,electrofishing,structure,density
+50,3a,positive,type,electrofishing,structure,density
+2,1a,not included,type,macroinvertebrate,substrate category,not juvenile salmon
+2,1a,not included,depth,macroinvertebrate,substrate category,not juvenile salmon
+2,1a,not included,velocity,macroinvertebrate,substrate category,not juvenile salmon
+2,1a,not included,substrate,macroinvertebrate,substrate category,not juvenile salmon
+2,1a,not included,type,macroinvertebrate,substrate category,not juvenile salmon
+2,1a,not included,depth,macroinvertebrate,substrate category,not juvenile salmon
+2,1a,not included,velocity,macroinvertebrate,substrate category,not juvenile salmon
+2,1a,not included,substrate,macroinvertebrate,substrate category,not juvenile salmon
+2,4,not evaluated,type,macroinvertebrate,substrate category,not juvenile salmon
+2,4,not evaluated,depth,macroinvertebrate,substrate category,not juvenile salmon
+2,4,not evaluated,velocity,macroinvertebrate,substrate category,not juvenile salmon
+2,4,not evaluated,substrate,macroinvertebrate,substrate category,not juvenile salmon
+2,4,not evaluated,type,macroinvertebrate,substrate category,not juvenile salmon
+2,4,not evaluated,depth,macroinvertebrate,substrate category,not juvenile salmon
+2,4,not evaluated,velocity,macroinvertebrate,substrate category,not juvenile salmon
+2,4,not evaluated,substrate,macroinvertebrate,substrate category,not juvenile salmon
+6,3c,not related,velocity,snorkeling,substrate category,preference
+6,3c,not related,temperature,snorkeling,substrate category,preference
+6,3c,not related,depth,snorkeling,substrate category,preference
+6,3c,not related,substrate,snorkeling,substrate category,preference
+10,4,not evaluated,type,redd survey,substrate category,not juvenile salmon
+10,4,not evaluated,depth,redd survey,substrate category,not juvenile salmon
+10,4,not evaluated,velocity,redd survey,substrate category,not juvenile salmon
+10,4,not evaluated,substrate,redd survey,substrate category,not juvenile salmon
+10,4,not evaluated,type,redd survey,substrate category,not juvenile salmon
+10,4,not evaluated,depth,redd survey,substrate category,not juvenile salmon
+10,4,not evaluated,velocity,redd survey,substrate category,not juvenile salmon
+10,4,not evaluated,substrate,redd survey,substrate category,not juvenile salmon
+10,1a,not included,type,redd survey,substrate category,not juvenile salmon
+10,1a,not included,depth,redd survey,substrate category,not juvenile salmon
+10,1a,not included,velocity,redd survey,substrate category,not juvenile salmon
+10,1a,not included,substrate,redd survey,substrate category,not juvenile salmon
+10,1a,not included,type,redd survey,substrate category,not juvenile salmon
+10,1a,not included,depth,redd survey,substrate category,not juvenile salmon
+10,1a,not included,velocity,redd survey,substrate category,not juvenile salmon
+10,1a,not included,substrate,redd survey,substrate category,not juvenile salmon
+14,3a,positive,substrate,electrofishing,substrate category,abundance
+14,3a,positive,cover,electrofishing,substrate category,abundance
+25,1a,not included,depth,transect ,substrate category,preference
+25,1a,not included,velocity,transect ,substrate category,preference
+25,1a,not included,substrate,transect ,substrate category,preference
+28,1a,not included,depth,electrofishing,substrate category,preference
+28,1a,not included,velocity,electrofishing,substrate category,preference
+28,1a,not included,substrate,electrofishing,substrate category,preference
+28,1a,not included,depth,beach seine,substrate category,preference
+28,1a,not included,velocity,beach seine,substrate category,preference
+28,1a,not included,substrate,beach seine,substrate category,preference
+30,1a,not included,depth,literarture,substrate category,preference
+30,1a,not included,substrate,literarture,substrate category,preference
+30,1a,not included,salinity,literarture,substrate category,preference
+30,1a,not included,temperature,literarture,substrate category,preference
+55,1b,model assumptions,depth,expert opinion,substrate category,preference
+55,1b,model assumptions,velocity,expert opinion,substrate category,preference
+55,1b,model assumptions,substrate,expert opinion,substrate category,preference
+3,1a,not included,depth,electrofishing,substrate size,preference
+3,1a,not included,depth,snorkeling,substrate size,preference
+3,1a,not included,velocity,electrofishing,substrate size,preference
+3,1a,not included,velocity,snorkeling,substrate size,preference
+3,1a,not included,substrate,electrofishing,substrate size,preference
+3,1a,not included,substrate,snorkeling,substrate size,preference
+18,1a,not included,depth,snorkeling,substrate size,preference
+18,1a,not included,velocity,snorkeling,substrate size,preference
+18,1a,not included,substrate,snorkeling,substrate size,preference
+21,1a,not included,depth,expert opinion,substrate size,preference
+21,1a,not included,velocity,expert opinion,substrate size,preference
+21,1a,not included,substrate,expert opinion,substrate size,preference
+49,1a,not included,depth,electrofishing,substrate size,preference
+49,1a,not included,velocity,electrofishing,substrate size,preference
+49,1a,not included,substrate,electrofishing,substrate size,preference
+49,1a,not included,depth,marking/tagging,substrate size,preference
+49,1a,not included,velocity,marking/tagging,substrate size,preference
+49,1a,not included,substrate,marking/tagging,substrate size,preference
+56,1a,not included,depth,electrofishing,substrate size,preference
+56,1a,not included,velocity,electrofishing,substrate size,preference
+56,1a,not included,substrate,electrofishing,substrate size,preference
+57,1b,model assumptions,depth,snorkeling,substrate size,preference
+57,1b,model assumptions,velocity,snorkeling,substrate size,preference
+57,1b,model assumptions,substrate,snorkeling,substrate size,preference
+14,3a,positive,substrate,electrofishing,visibility,abundance
+14,3a,positive,cover,electrofishing,visibility,abundance
+16,3a,positive,depth,snorkeling,visibility,preference
+16,3a,positive,velocity,snorkeling,visibility,preference
+16,3a,positive,substrate,snorkeling,visibility,preference
+16,3a,positive,cover,snorkeling,visibility,preference
+23,3a,positive,type,seine ,visibility,survival 
+23,3a,positive,velocity,seine ,visibility,survival 
+23,3a,positive,cover,seine ,visibility,survival 
+24,3a,positive,depth,electrofishing,visibility,preference
+24,3a,positive,depth,experimental density ,visibility,preference
+24,3a,positive,velocity,electrofishing,visibility,preference
+24,3a,positive,velocity,experimental density ,visibility,preference
+24,3a,positive,substrate,electrofishing,visibility,preference
+24,3a,positive,substrate,experimental density ,visibility,preference
+24,3a,positive,cover,electrofishing,visibility,preference
+24,3a,positive,cover,experimental density ,visibility,preference
+44,3a,positive,wetted width,electrofishing,visibility,preference
+44,3a,positive,depth,electrofishing,visibility,preference
+44,3a,positive,velocity,electrofishing,visibility,preference
+44,3a,positive,substrate,electrofishing,visibility,preference
+47,3a,positive,depth,electrofishing,visibility,preference
+47,3a,positive,velocity,electrofishing,visibility,preference
+47,3a,positive,substrate,electrofishing,visibility,preference
+47,3a,positive,cover,electrofishing,visibility,preference
+53,4,not evaluated,wetted width,electrofishing,visibility,preference
+53,4,not evaluated,wetted width,snorkeling,visibility,preference
+53,4,not evaluated,depth,electrofishing,visibility,preference
+53,4,not evaluated,depth,snorkeling,visibility,preference
+53,4,not evaluated,velocity,electrofishing,visibility,preference
+53,4,not evaluated,velocity,snorkeling,visibility,preference
+53,4,not evaluated,substrate,electrofishing,visibility,preference
+53,4,not evaluated,substrate,snorkeling,visibility,preference
+53,4,not evaluated,cover,electrofishing,visibility,preference
+53,4,not evaluated,cover,snorkeling,visibility,preference
+58,3a,positive,depth,snorkeling,visibility,preference
+58,3a,positive,velocity,snorkeling,visibility,preference
+58,3a,positive,substrate,snorkeling,visibility,preference
+58,3a,positive,cover,snorkeling,visibility,preference
