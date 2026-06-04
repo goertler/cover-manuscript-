@@ -47,11 +47,11 @@ id,outcome,conclusion,habitat,fish.sampling,cover,salmon.response
 51,3a,positive,substrate,snorkeling,addition,preference
 51,3a,positive,cover,snorkeling,addition,preference
 17,1a,not included,gradient,literarture,gradient,preference
-31,2c,temperature,cover,literarture,instream,density
-31,2c,temperature,depth,literarture,instream,density
-31,2c,temperature,pH,literarture,instream,density
-31,2c,temperature,temperature,literarture,instream,density
-31,2c,temperature,type,literarture,instream,density
+31,2c,temperature,cover,literarture,instream,capacity
+31,2c,temperature,depth,literarture,instream,capacity
+31,2c,temperature,pH,literarture,instream,capacity
+31,2c,temperature,temperature,literarture,instream,capacity
+31,2c,temperature,type,literarture,instream,capacity
 46,4,not evaluated,depth,literarture,instream,survival 
 46,2b,bed stability,depth,literarture,instream,survival 
 46,4,not evaluated,velocity,literarture,instream,survival 
@@ -183,8 +183,8 @@ id,outcome,conclusion,habitat,fish.sampling,cover,salmon.response
 10,1a,not included,depth,redd survey,substrate category,not juvenile salmon
 10,1a,not included,velocity,redd survey,substrate category,not juvenile salmon
 10,1a,not included,substrate,redd survey,substrate category,not juvenile salmon
-14,3a,positive,substrate,electrofishing,substrate category,abundance
-14,3a,positive,cover,electrofishing,substrate category,abundance
+14,3a,positive,substrate,electrofishing,substrate category,density
+14,3a,positive,cover,electrofishing,substrate category,density
 25,1a,not included,depth,transect ,substrate category,preference
 25,1a,not included,velocity,transect ,substrate category,preference
 25,1a,not included,substrate,transect ,substrate category,preference
@@ -225,7 +225,7 @@ id,outcome,conclusion,habitat,fish.sampling,cover,salmon.response
 57,1b,model assumptions,depth,snorkeling,substrate size,preference
 57,1b,model assumptions,velocity,snorkeling,substrate size,preference
 57,1b,model assumptions,substrate,snorkeling,substrate size,preference
-14,3a,positive,substrate,electrofishing,visibility,abundance
+14,3a,positive,substrate,electrofishing,visibility,density
 14,3a,positive,cover,electrofishing,visibility,abundance
 16,3a,positive,depth,snorkeling,visibility,preference
 16,3a,positive,velocity,snorkeling,visibility,preference

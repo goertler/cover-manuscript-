@@ -62,20 +62,22 @@ vel_dat$color <- "#0072B2"
 custom_dat <- rbind(pos_dat, neg_dat, temp_dat, hab_dat, bed_dat, vel_dat)
 write.csv(custom_dat, "wordcloud_plot.csv")
 
-png("wordcloud_plot.png", width = 6, height = 6, units = "in", res = 300)
+png("wordcloud_plot.png", width = 2.5, height = 2.5, units = "in", res = 300)
 
-layout(matrix(c(1,1,0,2), 2, 2, byrow = TRUE))
+par(mar = c(0, 0, 0, 0), family = "Helvetica")
+mat <- matrix(c(1,2), 1, 2, byrow = TRUE)
+layout(mat, widths = c(3, 1))
 
 wordcloud(custom_dat$word, custom_dat$freq, colors=custom_dat$color,
           min.freq = 1,
           max.words=200, random.order=FALSE, ordered.colors = TRUE, rot.per=0.35,
           family = "Helvetica")
 
-plot(type = "n")
-par(family = "Helvetica")
-legend("center", title = "Conclusion Category", c("bed stability","habitat extent",
+plot.new()
+
+legend("center", c("bed stability","habitat extent",
                     "temperature", "velocity","positive","negative"),
        col = c("#56B4E9","#CC79A7","#E69F00","#0072B2","#009E73","#D55E00"),
-       pch = 15, cex = 1)
+       pch = 15, cex = 1, bty="n")
 
 dev.off()
